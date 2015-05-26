@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/topFrame"
+        android:layout_weight="3.5"
+        android:isScrollContainer="true">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <EditText
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/etHouseName"
+                android:hint="@string/etHouseHint"
+                android:padding="5sp"
+                android:imeOptions="actionDone"
+                android:lines="1"
+                android:maxLines="1"
+                android:inputType="textCapWords" />
+            <EditText
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/etReviewerName"
+                android:hint="@string/etReviewerHint"
+                android:padding="5sp"
+                android:lines="1"
+                android:maxLines="1"
+                android:imeOptions="actionDone"
+                android:inputType="textCapWords" />
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+                <Spinner
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/spinDepartments"
+                    android:entries="@array/DepartmentSpinner"
+                    android:layout_weight="2"></Spinner>
+                <Spinner
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/spinTitles"
+                    android:layout_weight="1"
+                    android:entries="@array/Titles"></Spinner>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <fragment class="org.trinity_services.cleaningchecklist.views.MainFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/mainFragment"
+        android:layout_weight="1.5"></fragment>
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:background="@color/Trinity_Green"
+        android:layout_weight="4"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:src="@drawable/dyn_submit_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imgSubmitList"
+            android:background="@null"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imgbtnComment"
+            android:src="@drawable/dyn_comment_button"
+            android:background="@null"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+
+</LinearLayout><!-- From: file:/C:/Users/JLP/AndroidStudioProjects/CleaningChecklist/app/src/main/res/layout/activity_main.xml -->

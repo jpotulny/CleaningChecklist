@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textCapSentences|textMultiLine"
+        android:ems="10"
+        android:id="@+id/etCommentary"
+        android:layout_gravity="center_horizontal"
+        android:minLines="12"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnSubmitComments"
+            android:text="Save Comment"
+            android:layout_weight="1"
+            android:padding="5sp"
+            android:paddingLeft="50sp"
+            android:paddingRight="50sp"/>
+        </LinearLayout>
+
+</LinearLayout>

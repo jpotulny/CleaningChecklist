@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/JLP/AndroidStudioProjects/CleaningChecklist/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string-array name="Bathroom">
+        <item>Hard water/lime deposits</item>
+        <item>General cleanliness</item>
+        <item>Soap and towels</item>
+    </string-array>
+    <string-array name="Bedroom">
+        <item>Cleanliness</item>
+        <item>Orderly and neat</item>
+    </string-array>
+    <string-array name="DepartmentSpinner">
+        <item>Net 1</item>
+        <item>Net 2</item>
+        <item>Net 3</item>
+        <item>Net 4</item>
+        <item>Net 5</item>
+        <item>Net 7</item>
+        <item>Net 8</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="Dusting">
+        <item>Common areas</item>
+        <item>Bedrooms</item>
+        <item>Vents (wall and floor)</item>
+    </string-array>
+    <string-array name="ExteriorOfHome">
+        <item>Garbage removal/storage</item>
+        <item>Flower beds weeded\r\n/general neatness</item>
+    </string-array>
+    <string-array name="Flooring">
+        <item>Mopping / vacuuming</item>
+        <item>Carpet stains</item>
+        <item>Baseboards</item>
+    </string-array>
+    <string-array name="Furniture">
+        <item>Furniture in good repair</item>
+    </string-array>
+    <string-array name="Kitchen">
+        <item>Stove/exhaust fan</item>
+        <item>Oven</item>
+        <item>Inside of refrigerator</item>
+        <item>Top of refrigerator</item>
+        <item>Inside of cabinets</item>
+    </string-array>
+    <string-array name="LaundryRoom">
+        <item>Behind washer/dryer</item>
+        <item>Lint filter</item>
+        <item>Safe Now products in use</item>
+    </string-array>
+    <string-array name="SpinnerScores">
+        <item>-2</item>
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="Titles">
+        <item>Team Leader</item>
+        <item>QDDP</item>
+        <item>ILC / ILA</item>
+        <item>Associate Director</item>
+        <item>Director</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="Walls">
+        <item>Interior Walls</item>
+    </string-array>
+    <string-array name="categories">
+        <item>Dusting</item>
+        <item>Kitchen</item>
+        <item>Bathroom</item>
+        <item>Bedroom</item>
+        <item>Flooring</item>
+        <item>Furniture</item>
+        <item>Laundry Room</item>
+        <item>Interior Walls</item>
+        <item>Exterior of Home</item>
+    </string-array>
+    <!-- From: file:/C:/Users/JLP/AndroidStudioProjects/CleaningChecklist/app/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="Trinity_Green">#02561b</color>
+    <color name="light_text">#ffffff</color>
+    <!-- From: file:/C:/Users/JLP/AndroidStudioProjects/CleaningChecklist/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/JLP/AndroidStudioProjects/CleaningChecklist/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="action_settings">Action Settings</string>
+    <string name="app_name">Home Cleanliness Checklist</string>
+    <string name="etHouseHint">House Name</string>
+    <string name="etReviewerHint">Your Name</string>
+    <string name="lblDate">Date:</string>
+    <string name="lblNetwork">Network:</string>
+    <string name="lblRevTitle">Reviewer Title:</string>
+    <string name="lblReviewer">Name of Reviewer:</string>
+    <string name="lblSiteName">House Name:</string>
+    <string name="sharedPrefKey">org.trinity_services.cleaningchecklist.SHARED_PREFS</string>
+    <!-- From: file:/C:/Users/JLP/AndroidStudioProjects/CleaningChecklist/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>

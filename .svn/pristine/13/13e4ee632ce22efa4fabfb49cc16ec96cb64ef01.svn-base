@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Trinity_Green"
+    android:textColor="@color/light_text"
+    android:text="Test"
+    android:textSize="30sp"
+    android:scrollbarAlwaysDrawVerticalTrack="true"
+    android:id="@+id/listCategory"/>
+</LinearLayout><!-- From: file:/C:/Users/JLP/AndroidStudioProjects/CleaningChecklist/app/src/main/res/layout/list_category.xml -->

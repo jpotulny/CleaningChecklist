@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="20.0.0" >
+        <source path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res" >
+            <file
+                name="splash_animation"
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\anim\splash_animation.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="comment_button"
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\drawable-xhdpi\comment_button.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="comment_press"
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\drawable-xhdpi\comment_press.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="dyn_comment_button"
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\drawable-xhdpi\dyn_comment_button.xml"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="dyn_submit_button"
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\drawable-xhdpi\dyn_submit_button.xml"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_copy"
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\drawable-xhdpi\ic_action_copy.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="submit_button"
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\drawable-xhdpi\submit_button.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="submit_pressed"
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\drawable-xhdpi\submit_pressed.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="trinity_logo"
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\drawable-xhdpi\trinity_logo.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="trinity_logo"
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\drawable-xxhdpi\trinity_logo.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_splash"
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\layout\activity_splash.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="comments"
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\layout\comments.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="custom_child_view"
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\layout\custom_child_view.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="list_category"
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\layout\list_category.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="list_view"
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\layout\list_view.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="preference_dialog"
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\layout\preference_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main_menu_bar"
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\menu\main_menu_bar.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\values\colors.xml"
+                qualifiers="" >
+                <color name="Trinity_Green" >#02561b
+                </color>
+                <color name="light_text" >#ffffff
+                </color>
+            </file>
+            <file
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="lblSiteName" >House Name:
+                </string>
+
+                <string-array name="Bathroom" >
+                    <item>
+Hard water/lime deposits
+                    </item>
+                    <item>
+General cleanliness
+                    </item>
+                    <item>
+Soap and towels
+                    </item>
+                </string-array>
+
+                <string name="action_settings" >Action Settings
+                </string>
+
+                <string-array name="LaundryRoom" >
+                    <item>
+Behind washer/dryer
+                    </item>
+                    <item>
+Lint filter
+                    </item>
+                    <item>
+Safe Now products in use
+                    </item>
+                </string-array>
+
+                <string name="etHouseHint" >House Name
+                </string>
+
+                <string-array name="categories" >
+                    <item>
+Dusting
+                    </item>
+                    <item>
+Kitchen
+                    </item>
+                    <item>
+Bathroom
+                    </item>
+                    <item>
+Bedroom
+                    </item>
+                    <item>
+Flooring
+                    </item>
+                    <item>
+Furniture
+                    </item>
+                    <item>
+Laundry Room
+                    </item>
+                    <item>
+Interior Walls
+                    </item>
+                    <item>
+Exterior of Home
+                    </item>
+                </string-array>
+                <string-array name="Walls" >
+                    <item>
+Interior Walls
+                    </item>
+                </string-array>
+                <string-array name="Kitchen" >
+                    <item>
+Stove/exhaust fan
+                    </item>
+                    <item>
+Oven
+                    </item>
+                    <item>
+Inside of refrigerator
+                    </item>
+                    <item>
+Top of refrigerator
+                    </item>
+                    <item>
+Inside of cabinets
+                    </item>
+                </string-array>
+                <string-array name="Flooring" >
+                    <item>
+Mopping / vacuuming
+                    </item>
+                    <item>
+Carpet stains
+                    </item>
+                    <item>
+Baseboards
+                    </item>
+                </string-array>
+                <string-array name="DepartmentSpinner" >
+                    <item>
+Net 1
+                    </item>
+                    <item>
+Net 2
+                    </item>
+                    <item>
+Net 3
+                    </item>
+                    <item>
+Net 4
+                    </item>
+                    <item>
+Net 5
+                    </item>
+                    <item>
+Net 7
+                    </item>
+                    <item>
+Net 8
+                    </item>
+                    <item>
+Other
+                    </item>
+                </string-array>
+                <string-array name="Furniture" >
+                    <item>
+Furniture in good repair
+                    </item>
+                </string-array>
+                <string-array name="Dusting" >
+                    <item>
+Common areas
+                    </item>
+                    <item>
+Bedrooms
+                    </item>
+                    <item>
+Vents (wall and floor)
+                    </item>
+                </string-array>
+
+                <string name="lblRevTitle" >Reviewer Title:
+                </string>
+                <string name="etReviewerHint" >Your Name
+                </string>
+                <string name="sharedPrefKey" >org.trinity_services.cleaningchecklist.SHARED_PREFS
+                </string>
+
+                <string-array name="Bedroom" >
+                    <item>
+Cleanliness
+                    </item>
+                    <item>
+Orderly and neat
+                    </item>
+                </string-array>
+
+                <string name="app_name" >Home Cleanliness Checklist
+                </string>
+
+                <string-array name="ExteriorOfHome" >
+                    <item>
+Garbage removal/storage
+                    </item>
+                    <item>
+Flower beds weeded\r\n/general neatness
+                    </item>
+                </string-array>
+
+                <string name="lblNetwork" >Network:
+                </string>
+
+                <string-array name="Titles" >
+                    <item>
+Team Leader
+                    </item>
+                    <item>
+QDDP
+                    </item>
+                    <item>
+ILC / ILA
+                    </item>
+                    <item>
+Associate Director
+                    </item>
+                    <item>
+Director
+                    </item>
+                    <item>
+Other
+                    </item>
+                </string-array>
+
+                <string name="lblReviewer" >Name of Reviewer:
+                </string>
+                <string name="lblDate" >Date:
+                </string>
+
+                <string-array name="SpinnerScores" >
+                    <item>
+-2
+                    </item>
+                    <item>
+-1
+                    </item>
+                    <item>
+0
+                    </item>
+                    <item>
+1
+                    </item>
+                    <item>
+2
+                    </item>
+                </string-array>
+            </file>
+            <file
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- Customize your theme here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\main\res\values-w820dp\dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+        </source>
+        <source path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\build\generated\res\rs\debug" />
+        <source path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\JLP\AndroidStudioProjects\CleaningChecklist\app\src\debug\res" />
+    </dataSet>
+
+</merger>
